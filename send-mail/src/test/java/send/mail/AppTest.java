@@ -17,7 +17,8 @@ import javax.mail.Session;
 public class AppTest {
 	
 	private String userName = "andredeveloperjava@gmail.com";
-	private String senha = "231928an";
+	private String senha = "btfz dflf pfat wwvn";
+	//private String senha = "231928an";
 	
 	@Test
 	public void testEmail() {
